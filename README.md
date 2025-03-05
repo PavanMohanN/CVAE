@@ -52,7 +52,7 @@ Follow these steps to set up the repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/thunder-volt/nga_west2_cvae.git
+   git clone https://github.com/thunder-volt/CVAE.git
    ```
 
 2. Navigate to the project directory:
