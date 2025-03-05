@@ -1,6 +1,5 @@
 ![Picture1](https://github.com/user-attachments/assets/fe14948d-b3c0-4f88-9b25-e7d94de24739)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -140,5 +139,5 @@ final_model.save("final_model.h5")
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
 </body>
-</html>
+
 
