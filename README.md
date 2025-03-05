@@ -150,5 +150,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 8. **Saving Models**: Explains how the model is saved for future use.
 9. **License**: Includes licensing information.
 
-You can copy this markdown and paste it into the `README.md` file in your repository. Let me know if you need any adjustments!
 
