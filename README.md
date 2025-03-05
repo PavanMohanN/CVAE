@@ -1,6 +1,5 @@
 ![Picture1](https://github.com/user-attachments/assets/fe14948d-b3c0-4f88-9b25-e7d94de24739)
 
-Sure! Below is the markdown version of the README, which you can copy and paste into your `README.md` file for GitHub:
 
 ```markdown
 # Enhanced Seismic Ground Motion Modelling with Conditional Variational Autoencoder (CVAE)
@@ -68,6 +67,7 @@ Follow these steps to set up the repository:
 
 4. Place your dataset (seismic data) in CSV format with the following columns:
    - Input features: `['eqm', 'ftype', 'hyp', 'dist', 'log_dist', 'log_vs30', 'dir']`
+   - eqm: Earthquake Magnitude; ftype: Faulting Mechanism, hyp: Hypocentral Depth; dist: Joyner Boore Distance; log_dist: log(dist); log_vs30: logarithm of shear wave velocity of top 30 meter of soil; dir: direction of ground motion record
    - Output variables (24 seismic response variables): Columns like `['pga', 'T0.010S', 'T0.020S', ..., 'T4.000S']`
 
 5. Modify the script to load your dataset (replace `df = pd.read_csv('your_data.csv')` with your dataset loading logic).
