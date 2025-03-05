@@ -1,7 +1,7 @@
 ![Picture1](https://github.com/user-attachments/assets/fe14948d-b3c0-4f88-9b25-e7d94de24739)
 
 
-```markdown
+
 # Enhanced Seismic Ground Motion Modelling with Conditional Variational Autoencoder (CVAE)
 
 This repository contains code for a Conditional Variational Autoencoder (CVAE) model designed for predicting seismic ground motion parameters. The model predicts 24 seismic response variables based on 7 input features. The training process involves hyperparameter optimization using grid search and cross-validation, followed by a final training phase with the selected best hyperparameters.
