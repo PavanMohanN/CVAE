@@ -150,4 +150,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 8. **Saving Models**: Explains how the model is saved for future use.
 9. **License**: Includes licensing information.
 
+`Created in Sep 2024`
 
+`@author: Pavan Mohan Neelamraju & Akshay Pratap Singh`
+
+`Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com; akshayps114407@gmail.com
+
+**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
